@@ -69,5 +69,5 @@ static bool IsPrime(int number)
 }
 
 
-
+// Stuck the screen
 Console.ReadKey();
